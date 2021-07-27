@@ -1374,7 +1374,7 @@
                         "type": "section_content",
                         "title": "About",
                         "section_id": "about",
-                        "content": "",
+                        "content": "<iframe loading="lazy" src=""",
                         "actions": [
                             {
                                 "type": "action",
